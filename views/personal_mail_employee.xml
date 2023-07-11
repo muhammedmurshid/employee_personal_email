@@ -10,5 +10,10 @@
             </xpath>
         </field>
     </record>
+    <menuitem
+            id="employee_personal_mail"
+            name="Personal Mail"
+            web_icon="employee_personal_mail/static/description/icon.png"
+            sequence="75"/>
 
 </odoo>
